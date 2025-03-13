@@ -54,4 +54,4 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/samsung/a54x/a54x-vendor.mk)
+$(call inherit-product, vendor/samsung/a35x/a35x-vendor.mk)
